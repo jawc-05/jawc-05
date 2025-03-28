@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá! 👋
+
+Sou um estudante de Engenharia de Software, estou no terceiro semestre. Atualmente me especializando em JavaScript,HTML, CSS, Frameworks como BootStrap, Less, Gulp e SaaS.
 
 <!--
 **jawc-05/jawc-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

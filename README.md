@@ -1,6 +1,8 @@
-## Olá! 👋
+## Olá!/Hi! 👋
 
-Sou um estudante de Engenharia de Software, estou no terceiro semestre. Atualmente me especializando em JavaScript,HTML, CSS, Less, Gulp, Grunt, Sass e Frameworks como BootStrap, .
+Sou um estudante de Engenharia de Software, estou no terceiro semestre. Atualmente me especializando em JavaScript,HTML, CSS, Less, Gulp, Grunt, Sass e Frameworks como BootStrap.
+
+
 I'm a Software Engineering student, im in the third period. Currently im specializing in JavasCript, HTML, CSS, Less, Gulp, Grunt, Sass and frameworks like BootStrap.
 
 <!--

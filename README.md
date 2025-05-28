@@ -1,9 +1,9 @@
 ## Olá!/Hi! 👋
 
-Sou um estudante de Engenharia de Software, estou no terceiro semestre. Atualmente me especializando em JavaScript,HTML, CSS, Less, Gulp, Grunt, Sass e Frameworks como BootStrap.
+Sou um estudante de Engenharia de Software, estou no terceiro semestre. Atualmente me especializando em JavaScript,HTML, CSS, Less, Gulp, Grunt, Sass e Frameworks como BootStrap, porém possuo grande interesse na área de BackEnd.
 
 
-I'm a Software Engineering student, im in the third period. Currently im specializing in JavasCript, HTML, CSS, Less, Gulp, Grunt, Sass and frameworks like BootStrap.
+I'm a Software Engineering student, im in the third period. Currently im specializing in JavasCript, HTML, CSS, Less, Gulp, Grunt, Sass and frameworks like BootStrap, but im very interested in the BackEnd area.
 
 <!--
 **jawc-05/jawc-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

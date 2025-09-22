@@ -1,6 +1,6 @@
 <h2>Hi! I'm João Alfredo👋<br><br>Welcome to my GitHub Profile! 🪡</h2>
 
-##  About Me
+## ⚙️ About Me
 
 
 - 🎓 Software Engineer – **UNIJUÍ**

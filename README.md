@@ -1,21 +1,23 @@
-## Olá!/Hi! 👋
+<h2>Hi! I'm João Alfredo👋<br><br>Welcome to my GitHub Profile! 🪡</h2>
 
-Sou estudante de Engenharia de Software, atualmente no terceiro semestre. Estou me especializando em desenvolvimento web com foco em JavaScript, HTML e CSS, utilizando pré-processadores como Sass e Less. Tenho experiência com ferramentas de automação e build como Gulp, Grunt e Parcel, e também com frameworks CSS como Bootstrap. Possuo conhecimentos em SQL e, embora minha base atual seja voltada para o front-end, tenho grande interesse e pretendo me aprofundar na área de Back-End.
+##  About Me
 
 
-I am a Software Engineering student, currently in my third semester. I am specializing in web development with a focus on JavaScript, HTML, and CSS, using preprocessors like Sass and Less. I have experience with build and automation tools such as Gulp, Grunt, and Parcel, as well as CSS frameworks like Bootstrap. I also have knowledge of SQL, and while my current expertise is more front-end oriented, I have a strong interest in pursuing a career in Back-End development.
+- 🎓 Software Engineer – **UNIJUÍ**
+- 💡 Currently improving skills in **Java**, **React**, and **Python**
+- 📬 Contact: [joaoalfredowc@gmail.com](mailto:joaoalfredowc@gmail.com)
 
-<!--
-**jawc-05/jawc-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## ⚙️ Skills
+<p>This section highlights some of the <b>languages</b> and <b>technologies</b> I have experience with. Over time, I have worked on a variety of projects that allowed me to develop practical skills and a solid understanding of different tools, frameworks, and development environments. I am always looking to expand my knowledge and improve my abilities through continuous learning and hands-on experience.</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,py,bootstrap,react,less,gulp,javascript" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jawc-05&theme=github_dark" alt="Top languages by repo badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jawc-05&theme=github_dark" alt="Top languages by commit badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jawc-05&theme=github_dark" alt="Profile details badge"/>
+</div>

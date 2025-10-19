@@ -4,7 +4,7 @@
 
 
 - 🎓 Software Engineer – **UNIJUÍ**
-- 💡 Currently improving skills in **Java**, **React**, and **Python**
+- 💡 Currently improving skills in **Java**, **React Native**, and **Python**
 - 📬 Contact: [joaoalfredowc@gmail.com](mailto:joaoalfredowc@gmail.com)
 
   ## ⚙️ Skills

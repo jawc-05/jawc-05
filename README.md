@@ -4,7 +4,7 @@
 
 
 - 🎓 Software Engineer – **UNIJUÍ**
-- 💡 Currently improving skills in **Java**, **React Native**, and **Python**
+- 💡 Currently improving skills in **Java** and **SpringBoot**
 - 📬 Contact: [joaoalfredowc@gmail.com](mailto:joaoalfredowc@gmail.com)
 
   ## ⚙️ Skills
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,py,bootstrap,react,less,gulp,javascript,python,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,py,bootstrap,react,less,gulp,javascript,python,mysql,mongodb,postgresql,wildfly" />
   </a>
 </p>
 
